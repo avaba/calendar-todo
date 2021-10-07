@@ -1,0 +1,12 @@
+.active-date {
+  background: #DFFFDF;
+  
+  &.react-calendar__tile--active {
+    background: #006edc;
+  }
+}
+
+.calendar-event {
+  border-radius: 4px;
+  border: 0;
+}

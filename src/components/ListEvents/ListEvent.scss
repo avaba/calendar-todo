@@ -1,0 +1,22 @@
+.event-item {
+  padding: 20px;
+  margin-bottom: 10px;
+  background: #fff;
+  border-radius: 4px;
+  
+  &__name {
+	color: #CCC;
+	display: block;
+	font-size: 13px;
+	margin-bottom: 8px;
+  }
+  
+  h3 {
+	font-size: 20px;
+	color: #1E88E5;
+  }
+  
+  p {
+	margin: 0;
+  }
+}
